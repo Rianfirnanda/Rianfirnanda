@@ -1,25 +1,5 @@
-## Hi 👋 Gweh Rian Firnanda:)
-<p align = "center">
- <img width="44%" src="https://github-readme-stats.vercel.app/api?username=rianfirnanda&&show_icons=true&title_color=79ff97&icon_color=63a2ff&text_color=ffffff&bg_color=151515&hide=contribs"/>
-<img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianfirnanda&title_color=79ff97&icon_color=63a2ff&text_color=ffffff&bg_color=151515&hide=css%2Chtml&layout=compact" /></p>
-<details open>
 
-<summary>🤝 <b>To connect with me<b></summary>
-
-<p align = "center">
-  
-
-
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/rianfirnandaa_/)
-[![Visits Badge](https://badges.pufler.dev/visits/Rianfirnanda/Rianfirnanda?style=for-the-badge&color=blue)](https://github.com/Rianfirnanda/Rianfirnanda)
-![Repos Badge](https://badges.pufler.dev/repos/Rianfirnanda?style=for-the-badge&color=red)
-
-</p>
-
-</details>
-
- 
- <img src="assets/syafwan.gif">
+<img src="assets/syafwan.gif">
 
 <h1>
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true" width="30"> Hellow
@@ -48,11 +28,28 @@
    📃 Recent Project
 </h1>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=syafwan000&repo=mathducation)](https://github.com/Syafwan000/mathducation)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=syafwan000&repo=bisa-ngopi)](https://github.com/Syafwan000/bisa-ngopi)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rianfirnanda&repo=telegram-anonymous-chat)](https://github.com/Rianfirnanda/telegram-anonymous-chat)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rianfirnanda&repo=prank-cewe)](https://github.com/Rianfirnanda/prank-cewe)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=syafwan000&repo=quran-digital)](https://github.com/Syafwan000/quran-digital)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=syafwan000&repo=teymii)](https://github.com/Syafwan000/teymii)
 
 <hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=syafwan000&theme=dark&show_icons=true)
+<p align = "center">
+ <img width="44%" src="https://github-readme-stats.vercel.app/api?username=rianfirnanda&&show_icons=true&title_color=79ff97&icon_color=63a2ff&text_color=ffffff&bg_color=151515&hide=contribs"/>
+<img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rianfirnanda&title_color=79ff97&icon_color=63a2ff&text_color=ffffff&bg_color=151515&hide=css%2Chtml&layout=compact" /></p>
+<details open>
+
+
+<p align = "center">
+  
+
+
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/rianfirnandaa_/)
+[![Visits Badge](https://badges.pufler.dev/visits/Rianfirnanda/Rianfirnanda?style=for-the-badge&color=blue)](https://github.com/Rianfirnanda/Rianfirnanda)
+![Repos Badge](https://badges.pufler.dev/repos/Rianfirnanda?style=for-the-badge&color=red)
+
+</p>
+
+</details>
+
