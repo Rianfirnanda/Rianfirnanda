@@ -5,12 +5,12 @@
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true" width="30"> Hellow
 </h1>
 
-<p>My name is <b><i>Muhammad Syafwan Ardiansyah</i></b>, I'm a student, I live in Indonesia, I like about technology especially Programming, I'm interested in web and mobile development</p>
+<p>My name is <b><i>Rian Firnanda Irsyadani</i></b>, I'm a student, I live in Indonesia, I like about technology especially Programming, I'm interested in web and artificial intelligence</p>
 
-- 🌱 I’m currently learning React, Tailwind and Kotlin
+- 🌱 I’m currently learning python, php and javascript
 - 📫 How to reach me
 
-<a href="https://www.instagram.com/safvvan_/" target="_blank">
+<a href="https://www.instagram.com/Rianfirnandaa_/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
@@ -30,8 +30,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rianfirnanda&repo=telegram-anonymous-chat)](https://github.com/Rianfirnanda/telegram-anonymous-chat)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rianfirnanda&repo=prank-cewe)](https://github.com/Rianfirnanda/prank-cewe)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=syafwan000&repo=quran-digital)](https://github.com/Syafwan000/quran-digital)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=syafwan000&repo=teymii)](https://github.com/Syafwan000/teymii)
+
 
 <hr>
 
