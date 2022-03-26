@@ -5,7 +5,7 @@
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true" width="30"> Hellow
 </h1>
 
-<p>My name is <b><i>Rian Firnanda Irsyadani</i></b>, I'm a student, I live in Indonesia, I like about technology especially Programming, I'm interested in web and artificial intelligence</p>
+<p>My name is <b><i>Rian Firnanda Irsyadani</i></b>, I'm a student, I live in Bengkulu, Indonesia. I like about technology especially Programming, I'm interested in web and artificial intelligence</p>
 
 - 🌱 I’m currently learning python, php and javascript
 - 📫 How to reach me
