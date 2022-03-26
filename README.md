@@ -2,7 +2,7 @@
 <img src="yy.png">
 
 <h1>
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true" width="30"> Hellow
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true" width="30"> Hello Everyone!
 </h1>
 
 <p>My name is <b><i>Rian Firnanda Irsyadani</i></b>, I'm a student, I live in Bengkulu, Indonesia. I like about technology especially Programming, I'm interested in web and artificial intelligence</p>
