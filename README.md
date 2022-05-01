@@ -1,5 +1,5 @@
 
-<img src="yy.png">
+<img src="yy.png" width="50">
 
 <h1>
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif?raw=true" width="30"> Hello Everyone!
