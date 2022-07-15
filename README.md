@@ -18,8 +18,7 @@
 
 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/rianfirnandaa_/)
-[![Visits Badge](https://badges.pufler.dev/visits/Rianfirnanda/Rianfirnanda?style=for-the-badge&color=blue)](https://github.com/Rianfirnanda/Rianfirnanda)
-![Repos Badge](https://badges.pufler.dev/repos/Rianfirnanda?style=for-the-badge&color=red)
+
 
 </p>
 
