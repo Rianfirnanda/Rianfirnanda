@@ -39,7 +39,7 @@
 </h1>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rianfirnanda&repo=telegram-anonymous-chat)](https://github.com/Rianfirnanda/telegram-anonymous-chat)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rianfirnanda&repo=prank-cewe)](https://github.com/Rianfirnanda/prank-cewe)
+
 
 
 <hr>
