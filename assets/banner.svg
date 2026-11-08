@@ -1,23 +1,34 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
-  <title id="title">Rian Firnanda Irsyadani</title>
-  <desc id="desc">Technology with a public purpose. Web development, digital operations, and public sector governance.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#142d3c"/></linearGradient>
-    <linearGradient id="accent"><stop stop-color="#5eead4"/><stop offset="1" stop-color="#7dd3fc"/></linearGradient>
-    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#b2dfed" stroke-opacity=".045"/></pattern>
-  </defs>
-  <rect width="1200" height="320" rx="16" fill="url(#bg)"/>
-  <rect width="1200" height="320" rx="16" fill="url(#grid)"/>
-  <circle cx="1120" cy="80" r="170" fill="none" stroke="#5eead4" stroke-opacity=".09"/>
-  <circle cx="1120" cy="80" r="126" fill="none" stroke="#5eead4" stroke-opacity=".12"/>
-  <path d="M64 67h54" stroke="url(#accent)" stroke-width="4" stroke-linecap="round"/>
-  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
-    <text x="64" y="112" font-size="13" font-weight="600" letter-spacing="3.5" fill="#8bded5">TECHNOLOGY WITH A PUBLIC PURPOSE</text>
-    <text x="61" y="179" font-size="49" font-weight="700" letter-spacing="-1.4" fill="#f1f5f9">Rian Firnanda Irsyadani</text>
-    <text x="64" y="221" font-size="20" fill="#b7c9d6">Connecting code, people, and better public services.</text>
-    <text x="64" y="277" font-size="13" letter-spacing="1.5" fill="#7e9ba9">BENGKULU, INDONESIA</text>
-  </g>
-  <rect x="1132" y="247" width="6" height="26" rx="3" fill="#5eead4" fill-opacity=".75"/>
-  <rect x="1144" y="231" width="6" height="42" rx="3" fill="#7dd3fc" fill-opacity=".6"/>
-  <rect x="1156" y="214" width="6" height="59" rx="3" fill="#5eead4" fill-opacity=".4"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Rian Firnanda Irsyadani</title>
+<desc id="desc">Web development, digital operations and public administration. Bengkulu, Indonesia.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse"><stop stop-color="#0D1117"/><stop offset="1" stop-color="#12232D"/></linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#59D9BD"/><stop offset="1" stop-color="#76B9F0"/></linearGradient>
+  <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#8BA6BB" opacity=".09"/></pattern>
+</defs>
+<style>
+  .signal{stroke-dasharray:42 650;animation:travel 12s linear infinite}
+  .cursor{animation:blink 1.8s steps(1,end) infinite}
+  .status{animation:breathe 4s ease-in-out infinite}
+  @keyframes travel{to{stroke-dashoffset:-692}}
+  @keyframes blink{0%,48%{opacity:1}49%,100%{opacity:0}}
+  @keyframes breathe{0%,100%{opacity:.45}50%{opacity:1}}
+  @media(prefers-reduced-motion:reduce){.signal,.cursor,.status{animation:none}}
+</style>
+<rect width="1200" height="300" rx="16" fill="url(#bg)"/>
+<rect width="1200" height="300" rx="16" fill="url(#dots)"/>
+<rect x=".5" y=".5" width="1199" height="299" rx="15.5" stroke="#8BA6BB" stroke-opacity=".16"/>
+<path d="M872 0V62L946 136H1200M963 300V239L1042 160H1200M1033 0V55L1100 122H1200" stroke="#79C7D9" stroke-opacity=".12"/>
+<path class="signal" d="M872 0V62L946 136H1200" stroke="#59D9BD" stroke-opacity=".6" stroke-width="1.5"/>
+<path class="signal" d="M963 300V239L1042 160H1200" stroke="#76B9F0" stroke-opacity=".45" stroke-width="1.5"/>
+<g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif">
+  <circle class="status" cx="59" cy="59" r="4" fill="#59D9BD"/>
+  <text x="74" y="64" fill="#A8C0CB" font-size="12" font-weight="500" letter-spacing="2.4">RIANFIRNANDA / GITHUB</text>
+  <text x="53" y="137" fill="#F0F6FC" font-size="49" font-weight="650" letter-spacing="-1.5">Rian Firnanda Irsyadani</text>
+  <text x="56" y="180" fill="#A5B7C6" font-size="19">Web development · Digital operations · Public administration</text>
+  <text x="56" y="247" fill="#70D7C1" font-family="'SFMono-Regular',Consolas,monospace" font-size="13">Bengkulu, Indonesia</text>
+</g>
+<path d="m1073 205-15 15 15 15m34-30 15 15-15 15m-11-38-13 46" stroke="#83B5C8" stroke-opacity=".6" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path class="cursor" d="M1133 235h13" stroke="#59D9BD" stroke-width="2.5"/>
+<path d="M32 298H1168" stroke="url(#line)" stroke-opacity=".7" stroke-width="2"/>
 </svg>
