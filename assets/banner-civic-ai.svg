@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="440" viewBox="0 0 1440 440" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Rian Firnanda Irsyadani — Information Technology and Public Administration</title>
+<desc id="desc">A midnight blue and gold banner with an illuminated civic building connected to digital circuits. Bengkulu, Indonesia.</desc>
+<defs>
+<linearGradient id="bg" x2="1440" y2="440" gradientUnits="userSpaceOnUse"><stop stop-color="#090F1B"/><stop offset=".6" stop-color="#111D30"/><stop offset="1" stop-color="#0C1823"/></linearGradient>
+<linearGradient id="gold" x1="930" y1="90" x2="1320" y2="355" gradientUnits="userSpaceOnUse"><stop stop-color="#F5DEAA"/><stop offset=".5" stop-color="#C4A369"/><stop offset="1" stop-color="#887048"/></linearGradient>
+<linearGradient id="rule" x1="60" y1="0" x2="1380" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#DCC18E"/><stop offset=".45" stop-color="#DCC18E" stop-opacity=".15"/><stop offset="1" stop-color="#70D7C1" stop-opacity=".65"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#C4A369" stop-opacity=".14"/><stop offset="1" stop-color="#C4A369" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" stroke="#99B0CC" stroke-opacity=".045"/></pattern>
+<filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="3"/></filter>
+<clipPath id="frame"><rect width="1440" height="440" rx="20"/></clipPath>
+<path id="c1" d="M1438 112H1336L1295 153H1248"/>
+<path id="c2" d="M1438 326H1340L1290 276H1248"/>
+<path id="c3" d="M960 440V397L1017 340"/>
+</defs>
+<style>
+.flow{stroke-dasharray:28 480;animation:flow 9s linear infinite}
+.flow2{animation-delay:-4s;animation-duration:12s}
+.pulse{animation:pulse 5s ease-in-out infinite}
+.orbit{transform-origin:1140px 220px;animation:orbit 90s linear infinite}
+.float{animation:float 8s ease-in-out infinite}
+@keyframes flow{to{stroke-dashoffset:-508}}
+@keyframes pulse{0%,100%{opacity:.3}50%{opacity:.9}}
+@keyframes orbit{to{transform:rotate(360deg)}}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}
+@media(prefers-reduced-motion:reduce){.flow,.pulse,.orbit,.float{animation:none}}
+</style>
+<g clip-path="url(#frame)">
+<rect width="1440" height="440" fill="url(#bg)"/>
+<rect width="1440" height="440" fill="url(#grid)"/>
+<ellipse cx="1150" cy="215" rx="340" ry="300" fill="url(#halo)"/>
+<path d="M60 38H1380M60 402H1380" stroke="url(#rule)" stroke-opacity=".6"/>
+<path d="M30 62V30H62M1378 30H1410V62M30 378V410H62M1378 410H1410V378" stroke="#C4A369" stroke-opacity=".55"/>
+<circle cx="1140" cy="220" r="166" stroke="#D5BD8F" stroke-opacity=".12"/>
+<circle cx="1140" cy="220" r="187" stroke="#8CA8B9" stroke-opacity=".1" stroke-dasharray="2 12"/>
+<g class="orbit">
+<path d="M1140 33A187 187 0 0 1 1327 220" stroke="#DCC18E" stroke-opacity=".45" stroke-dasharray="32 262"/>
+<circle cx="1140" cy="33" r="3" fill="#DCC18E"/>
+<circle cx="1140" cy="407" r="2.5" fill="#70D7C1"/>
+</g>
+<g stroke="#70D7C1" stroke-opacity=".18" stroke-width="1.2">
+<use href="#c1"/><use href="#c2"/><use href="#c3"/>
+<path d="M1060 0V58L1095 93M1440 220H1310M980 156H945L918 129H872M980 285H936L900 321H843"/>
+</g>
+<g stroke="#70D7C1" stroke-width="2" class="flow"><use href="#c1"/><use href="#c3"/></g>
+<g stroke="#DCC18E" stroke-width="2" class="flow flow2"><use href="#c2"/></g>
+<g class="float">
+<path d="m1019 176 121-65 121 65H1019Z" fill="#C4A369" fill-opacity=".035" stroke="url(#gold)" stroke-width="1.7" stroke-linejoin="round"/>
+<path d="m1050 165 90-48 90 48" stroke="#E4CB98" stroke-opacity=".32"/>
+<circle cx="1140" cy="149" r="10" stroke="#DCC18E" stroke-opacity=".7"/>
+<path d="m1136 149 3 3 5-6" stroke="#DCC18E" stroke-width="1.4"/>
+<path d="M1027 185H1253M1027 193H1253" stroke="url(#gold)" stroke-width="1.5"/>
+<g stroke="url(#gold)" stroke-width="1.5">
+<path d="M1041 200H1067V283H1041ZM1098 200H1124V283H1098ZM1156 200H1182V283H1156ZM1213 200H1239V283H1213Z" fill="#C4A369" fill-opacity=".025"/>
+<path d="M1054 208V275M1111 208V275M1169 208V275M1226 208V275" stroke-opacity=".28"/>
+<path d="M1036 290H1244V299H1036ZM1025 306H1255V315H1025ZM1014 322H1266"/>
+</g>
+<g stroke="#70D7C1" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+<path d="m1122 346-8 8 8 8m36-16 8 8-8 8m-12-20-11 24"/>
+</g>
+</g>
+<g class="pulse" fill="#70D7C1">
+<circle cx="1336" cy="112" r="3"/><circle cx="1340" cy="326" r="3"/><circle cx="945" cy="156" r="2.5"/><circle cx="936" cy="285" r="2.5"/>
+</g>
+<g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif">
+<text x="76" y="94" fill="#DCC18E" font-size="12" font-weight="600" letter-spacing="3.8">INFORMATION TECHNOLOGY / PUBLIC ADMINISTRATION</text>
+<text x="72" y="186" fill="#F4F2EB" font-size="58" font-weight="650" letter-spacing="-1.8">Rian Firnanda</text>
+<text x="72" y="251" fill="#F4F2EB" font-size="58" font-weight="650" letter-spacing="-1.8">Irsyadani</text>
+<path d="M76 279H130" stroke="#DCC18E" stroke-width="2"/>
+<text x="76" y="319" fill="#AAB7C9" font-size="18" letter-spacing=".25">Applied AI · Software Development · Public Administration</text>
+<text x="76" y="369" fill="#8394A9" font-size="12" letter-spacing="2">BENGKULU, INDONESIA</text>
+</g>
+</g>
+<rect x=".5" y=".5" width="1439" height="439" rx="19.5" stroke="#DCC18E" stroke-opacity=".22"/>
+</svg>
