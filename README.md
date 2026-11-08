@@ -13,13 +13,15 @@
 
 ### About
 
-I work across **applied AI, software development, and public administration**. At BPS Kabupaten Bengkulu Tengah, my work includes maintaining internal web applications, improving news sentiment analysis, and following up on field-data anomalies for the 2026 Economic Census.
+My background combines **applied AI, software engineering, and public administration**.
 
-**AI & data.** I have retrained and integrated a **SmSA sentiment classification model** for automated news monitoring, and worked with article data and activity logs in **Firebase / Cloud Firestore**. My toolkit includes **Python, R, SPSS, generative AI, and prompt engineering**, supported by training in machine learning foundations, Google Cloud Generative AI, and Anthropic AI Fluency.
+**AI & data** — Python, R, SPSS, machine learning fundamentals, sentiment analysis, model retraining and integration, generative AI, prompt engineering, and Google AI Studio.
 
-**Software & systems.** I develop and maintain applications using **PHP, Laravel, CodeIgniter, JavaScript, and React**, with experience in databases, Git, debugging, and cloud platforms. My cybersecurity background includes the **Certified Cyber Security Analyst (C3SA)** credential.
+**Software & cloud** — PHP, Laravel, CodeIgniter, JavaScript, React, HTML/CSS, databases, Firebase / Cloud Firestore, Git, Google Cloud, and AWS foundations.
 
-**Public administration.** I hold a degree in Public Administration from Universitas Bengkulu (**GPA 3.84/4.00, with honors**). My experience covers **policy implementation research, institutional quality assurance, accreditation, tracer studies, and government administration**. I have supported academic drafting for regional regulations and researched the implementation of the **Family Information System (SIGA)** using the Design–Reality Gap framework.
+**Systems & security** — Application maintenance, debugging, operating systems, networking, and cybersecurity analysis, supported by the **Certified Cyber Security Analyst (C3SA)** credential.
+
+**Public administration** — Public policy analysis, policy implementation, bureaucratic reform, public sector management, institutional quality assurance, and information governance.
 
 <br />
 
