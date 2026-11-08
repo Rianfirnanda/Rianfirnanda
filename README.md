@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://rianfirnanda.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=70D7C1" alt="Visit my portfolio" /></a>
+  <a href="https://rianfirnanda.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-70D7C1?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=0D1117" alt="Visit my portfolio" /></a>
   <a href="https://www.linkedin.com/in/rian-firnanda-irsyadani/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&amp;logoColor=70D7C1" alt="Connect on LinkedIn" /></a>
   <a href="mailto:rianfirnanda1@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&amp;logo=gmail&amp;logoColor=70D7C1" alt="Email me" /></a>
   <a href="https://rianfirnanda.vercel.app/cetak/cv/"><img src="https://img.shields.io/badge/View_CV-0D1117?style=for-the-badge&amp;logo=readthedocs&amp;logoColor=70D7C1" alt="View my CV" /></a>
@@ -12,7 +12,6 @@
 <p align="center">
   <a href="#about">About</a> &nbsp;·&nbsp;
   <a href="#toolkit">Toolkit</a> &nbsp;·&nbsp;
-  <a href="#selected-work">Selected work</a> &nbsp;·&nbsp;
   <a href="#background">Background</a>
 </p>
 
@@ -28,47 +27,29 @@ Most of my web development work uses **PHP, Laravel, and CodeIgniter**. I also w
 
 ### Toolkit
 
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&amp;logo=php&amp;logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&amp;logo=laravel&amp;logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&amp;logo=codeigniter&amp;logoColor=white" alt="CodeIgniter" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&amp;logo=javascript&amp;logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS-663399?style=flat&amp;logo=css&amp;logoColor=white" alt="CSS" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat&amp;logo=wordpress&amp;logoColor=white" alt="WordPress" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&amp;logo=git&amp;logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&amp;logo=github&amp;logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Google%20AI%20Studio-1A73E8?style=flat&amp;logo=googlegemini&amp;logoColor=white" alt="Google AI Studio" />
+<p align="center"><sub>WEB DEVELOPMENT</sub></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PHP-161B22?style=for-the-badge&amp;logo=php&amp;logoColor=A8ADDF" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-161B22?style=for-the-badge&amp;logo=laravel&amp;logoColor=FF625B" alt="Laravel" />
+  <img src="https://img.shields.io/badge/CodeIgniter-161B22?style=for-the-badge&amp;logo=codeigniter&amp;logoColor=FF8060" alt="CodeIgniter" />
+  <img src="https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-161B22?style=for-the-badge&amp;logo=html5&amp;logoColor=F28B66" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS-161B22?style=for-the-badge&amp;logo=css&amp;logoColor=B69BF5" alt="CSS" />
 </p>
 
-<sub>Also: website maintenance, hosting & domain management, technical support, data collection, and institutional documentation.</sub>
+<p align="center"><sub>TOOLS &amp; PLATFORMS</sub></p>
 
-<br /><br />
+<p align="center">
+  <img src="https://img.shields.io/badge/WordPress-161B22?style=for-the-badge&amp;logo=wordpress&amp;logoColor=80BFDC" alt="WordPress" />
+  <img src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&amp;logo=git&amp;logoColor=F78166" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&amp;logo=github&amp;logoColor=E6EDF3" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Google_AI_Studio-161B22?style=for-the-badge&amp;logo=googlegemini&amp;logoColor=8AB4F8" alt="Google AI Studio" />
+</p>
 
-### Selected work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<h4>Public Administration Department</h4>
-<p>WordPress template redesign, website maintenance, and content management at Universitas Bengkulu.</p>
-<p><sub>WORDPRESS &nbsp; / &nbsp; WEBSITE MANAGEMENT</sub></p>
-<a href="https://social.unib.ac.id/bpa/">Visit website ↗</a>
-</td>
-<td width="50%" valign="top">
-<h4>Public Administration Laboratory</h4>
-<p>WordPress template redesign and website administration for the university laboratory.</p>
-<p><sub>WORDPRESS &nbsp; / &nbsp; WEBSITE MANAGEMENT</sub></p>
-<a href="https://social.unib.ac.id/bpalab/">Visit website ↗</a>
-</td>
-</tr>
-</table>
-
-Earlier projects include **SobatKoding**, a digital services venture with school friends, and **Kalula Digital Agency**, a collaborative internship project.
-
-[Explore the full portfolio ↗](https://rianfirnanda.vercel.app/#projects)
+<p align="center">
+  <sub>Website maintenance &nbsp;·&nbsp; Technical support &nbsp;·&nbsp; Data &amp; documentation</sub>
+</p>
 
 <br />
 
@@ -80,7 +61,7 @@ Graduated with honors · GPA **3.84/4.00**
 Previously studied Software Engineering at SMKN 1 Kota Bengkulu. Alongside website management, I have supported internal quality audits, accreditation documentation, and alumni tracer studies.
 
 <details>
-<summary>Research & recognition</summary>
+<summary><strong>Research &amp; recognition</strong></summary>
 
 <br />
 
@@ -94,7 +75,7 @@ My research looks at the implementation of the Family Information System (SIGA) 
 </details>
 
 <details>
-<summary>Selected credentials</summary>
+<summary><strong>Selected credentials</strong></summary>
 
 <br />
 
