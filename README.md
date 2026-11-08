@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Rian Firnanda Irsyadani — Web development, digital operations and public administration" />
+  <img src="https://raw.githubusercontent.com/Rianfirnanda/Rianfirnanda/main/assets/banner-civic-ai.svg" width="100%" alt="Rian Firnanda Irsyadani — Applied AI, software development and public administration" />
 </p>
 
 <p align="center">
@@ -13,9 +13,13 @@
 
 ### About
 
-I develop websites and manage the content, systems, and documentation behind them. My background is in **software engineering and public administration**, with experience supporting academic websites and administrative work at Universitas Bengkulu.
+I work across **applied AI, software development, and public administration**. At BPS Kabupaten Bengkulu Tengah, my work includes maintaining internal web applications, improving news sentiment analysis, and following up on field-data anomalies for the 2026 Economic Census.
 
-Most of my web development work uses **PHP, Laravel, and CodeIgniter**. I also work with WordPress and explore AI tools for research, documentation, and everyday administrative tasks.
+**AI & data.** I have retrained and integrated a **SmSA sentiment classification model** for automated news monitoring, and worked with article data and activity logs in **Firebase / Cloud Firestore**. My toolkit includes **Python, R, SPSS, generative AI, and prompt engineering**, supported by training in machine learning foundations, Google Cloud Generative AI, and Anthropic AI Fluency.
+
+**Software & systems.** I develop and maintain applications using **PHP, Laravel, CodeIgniter, JavaScript, and React**, with experience in databases, Git, debugging, and cloud platforms. My cybersecurity background includes the **Certified Cyber Security Analyst (C3SA)** credential.
+
+**Public administration.** I hold a degree in Public Administration from Universitas Bengkulu (**GPA 3.84/4.00, with honors**). My experience covers **policy implementation research, institutional quality assurance, accreditation, tracer studies, and government administration**. I have supported academic drafting for regional regulations and researched the implementation of the **Family Information System (SIGA)** using the Design–Reality Gap framework.
 
 <br />
 
