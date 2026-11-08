@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Rianfirnanda/Rianfirnanda/main/assets/banner-civic-ai.svg" width="100%" alt="Rian Firnanda Irsyadani — Applied AI, software development and public administration" />
+  <img src="https://raw.githubusercontent.com/Rianfirnanda/Rianfirnanda/main/assets/banner-studio.svg" width="100%" alt="Rian Firnanda Irsyadani : Applied AI, software development and public administration" />
 </p>
 
 <p align="center">
@@ -15,13 +15,13 @@
 
 My background combines **applied AI, software engineering, and public administration**.
 
-**AI & data** — Python, R, SPSS, machine learning fundamentals, sentiment analysis, model retraining and integration, generative AI, prompt engineering, and Google AI Studio.
+**AI & data.** Python, R, SPSS, machine learning fundamentals, sentiment analysis, model retraining and integration, generative AI, prompt engineering, and Google AI Studio.
 
-**Software & cloud** — PHP, Laravel, CodeIgniter, JavaScript, React, HTML/CSS, databases, Firebase / Cloud Firestore, Git, Google Cloud, and AWS foundations.
+**Software & cloud.** PHP, Laravel, CodeIgniter, JavaScript, React, HTML/CSS, databases, Firebase / Cloud Firestore, Git, Google Cloud, and AWS foundations.
 
-**Systems & security** — Application maintenance, debugging, operating systems, networking, and cybersecurity analysis, supported by the **Certified Cyber Security Analyst (C3SA)** credential.
+**Systems & security.** Application maintenance, debugging, operating systems, networking, and cybersecurity analysis, supported by the **Certified Cyber Security Analyst (C3SA)** credential.
 
-**Public administration** — Public policy analysis, policy implementation, bureaucratic reform, public sector management, institutional quality assurance, and information governance.
+**Public administration.** My studies and practical experience cover office administration, records management and archiving, official correspondence, document verification, data entry, and report preparation. I have also studied public policy, government administration, and public sector management, and supported institutional quality assurance documentation.
 
 <br />
 
